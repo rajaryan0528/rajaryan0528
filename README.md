@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajaryan0528
-- 👀 I’m interested in ...Machine Learning, Virtual Reality, Web Development, Data Analytics
-- 🌱 I’m currently learning ...C++
+- 👀 I’m interested in ...Machine Learning, Virtual Reality, Web Development, Data Analytics and Cybersecurity
+- 🌱 I’m currently learning ...C++, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rajaryan0528@gmail.com
 
