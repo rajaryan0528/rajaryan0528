@@ -19,12 +19,12 @@
     
   <br>
   <br>
-  <img src="https://imgs.search.brave.com/Ho23fuis4L23b-DBfaaXuUkH8QwhiF047sR5ZDP1Ju0/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/M05pRDB0cXdmaU5Z/R2YyWUxBbkZRSGFF/byZwaWQ9QXBp" alt="Nerd" width="500" height="600">
+  <img src="https://imgs.search.brave.com/Ho23fuis4L23b-DBfaaXuUkH8QwhiF047sR5ZDP1Ju0/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/M05pRDB0cXdmaU5Z/R2YyWUxBbkZRSGFF/byZwaWQ9QXBp" alt="Nerd" width="200" height="200">
     
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/rajaryan0528/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact)](https://github.com/rajaryan0528/github-readme-stats)
     <br>
- ![This is an image](https://imgs.search.brave.com/Ho23fuis4L23b-DBfaaXuUkH8QwhiF047sR5ZDP1Ju0/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/M05pRDB0cXdmaU5Z/R2YyWUxBbkZRSGFF/byZwaWQ9QXBp)
+ 
 <!---
 rajaryan0528/rajaryan0528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
