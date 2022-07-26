@@ -26,6 +26,7 @@
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/rajaryan0528/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact)](https://github.com/rajaryan0528/github-readme-stats)
     <br>
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=za6u86dj80p6r46lwrd0vqgy5)
  
 <!---
 rajaryan0528/rajaryan0528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
