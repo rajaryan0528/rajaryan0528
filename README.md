@@ -1,4 +1,4 @@
-<p><b>Hey there</b>👋 . 
+<h1><b>Hey there</h1>👋 
 <br>My name is <b>Raj Aryan</b>. I am currently an undergrad at ARSD , University of Delhi.<br>
 </p>
 <br>
