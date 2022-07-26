@@ -16,6 +16,8 @@
   <li><mark>HTML, CSS</mark></li>
 </ul>
     - 📫 How to reach me ...<b>rajaryan0528@gmail.com</b>
+    
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/rajaryan0528/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact&exclude_repo=Neural-Style-Transfer-with-TensorFlow-2,Data-Structures-and-Algorithms)]](https://github.com/rajaryan0528)
     <br>
  ![This is an image](https://imgs.search.brave.com/Ho23fuis4L23b-DBfaaXuUkH8QwhiF047sR5ZDP1Ju0/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/M05pRDB0cXdmaU5Z/R2YyWUxBbkZRSGFF/byZwaWQ9QXBp)
