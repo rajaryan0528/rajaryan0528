@@ -4,15 +4,17 @@
  I am currently an undergrad at ARSD , University of Delhi.<br>
 </p>
 <br>
-- 👀 I’m interested in ...
 <p align="right"
+- 👀 I’m interested in ...
 <ol>
   <li><mark>Web Development</mark> </li>
   <li><mark>Cybersecurity,Ethical Hacking<mark></li>
   <li><mark>AI and its subdomains<mark></li>
   <li><mark>And contributing to the open source<mark></li>
 </ol>
+<br>
 - 🌱 I’m currently learning ...
+<br>
 <ul>
   <li><mark>C++ </mark></li>
   <li><mark>Java</mark></li>
