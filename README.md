@@ -1,4 +1,5 @@
-<p>Hey there 👋 . My name is Raj Aryan. I am currently an undergrad at ARSD , University of Delhi.<br>
+<p>Hey there 👋 . 
+<br>My name is Raj Aryan. I am currently an undergrad at ARSD , University of Delhi.<br>
 </p>
 <br>
 - 👀 I’m interested in ...
