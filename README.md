@@ -19,8 +19,7 @@
     
   <br>
   <br>
-     <img src="https://imgs.search.brave.com/Ho23fuis4L23b-DBfaaXuUkH8QwhiF047sR5ZDP1Ju0/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/M05pRDB0cXdmaU5Z/R2YyWUxBbkZRSGFF/byZwaWQ9QXBp" alt="Nerd" width="200" height="200">
-  <img src="https://imgs.search.brave.com/Ho23fuis4L23b-DBfaaXuUkH8QwhiF047sR5ZDP1Ju0/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/M05pRDB0cXdmaU5Z/R2YyWUxBbkZRSGFF/byZwaWQ9QXBp" alt="Nerd" width="300" height="200">
+     <img src="https://imgs.search.brave.com/is5MHoLW9mnmAuVUJ5hEwKPO-FJNllrmyoV30pHMRp4/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/U3g2VmJOeGFWamU5/UExSTGlYM0dBSGFF/SyZwaWQ9QXBp" alt="Image" width="400" height="600">
     
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/rajaryan0528/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact)](https://github.com/rajaryan0528/github-readme-stats)
