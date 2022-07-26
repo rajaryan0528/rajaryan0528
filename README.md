@@ -10,12 +10,12 @@
   <li><mark>And contributing to the open source<mark></li>
 </ol>
 - 🌱 I’m currently learning ...
-- <ul>
+<ul>
   <li><mark>C++ </mark></li>
   <li><mark>Java</mark></li>
   <li><mark>HTML, CSS</mark></li>
 </ul>
-    - 📫 How to reach me ...<b>rajaryan0528@gmail.com</b>
+ - 📫 How to reach me ...<b>rajaryan0528@gmail.com</b>
     
   <br>
   <br>
