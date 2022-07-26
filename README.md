@@ -21,7 +21,7 @@
     
   <br>
   <br>
-  <img src="coding.jpg" alt="Image" width="600" height="300">
+  <img  align ="left" src="coding.jpg" alt="Image" width="600" height="300">
     
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/rajaryan0528/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact)](https://github.com/rajaryan0528/github-readme-stats)
