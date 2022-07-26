@@ -2,6 +2,10 @@
 <h3 align ="center" >My name is <b>Raj Aryan</b>.</h3>
 <p>
  I am currently an undergrad at ARSD , University of Delhi.<br>
+ 
+ <p align ="right">
+  <img  align ="centre" src="coding.jpg" alt="Image" width="600" height="300">
+ </p> 
 </p>
 <br>
 <p align="left">
@@ -25,9 +29,7 @@
     
   <br>
   <br>
-   <p align ="right">
-  <img  align ="centre" src="coding.jpg" alt="Image" width="600" height="300">
-   </p> 
+  
    
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/rajaryan0528/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact)](https://github.com/rajaryan0528/github-readme-stats)
