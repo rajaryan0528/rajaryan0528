@@ -1,8 +1,19 @@
-<p>Hey there 👋 . My name is Raj Aryan. I am currently an ubdergrad at ARSD , University of Delhi.<br>
+<p>Hey there 👋 . My name is Raj Aryan. I am currently an undergrad at ARSD , University of Delhi.<br>
 </p>
-- 👀 I’m interested in ...Machine Learning, Virtual Reality, Web Development, Data Analytics and Cybersecurity
-- 🌱 I’m currently learning ...C++, Java
-- 💞️ I’m looking to collaborate on ...
+<br>
+- 👀 I’m interested in ...
+<ol>
+  <li>Web Development </li>
+  <li>Cybersecurity,Ethical Hacking</li>
+  <li>AI and its subdomains</li>
+  <li>And contributing to the open source</li>
+</ol>
+- 🌱 I’m currently learning ...
+- <ul>
+  <li>C++ </li>
+  <li>Java</li>
+  <li>HTML, CSS</li>
+</ul>
 - 📫 How to reach me ...rajaryan0528@gmail.com
 
 <!---
