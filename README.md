@@ -4,7 +4,7 @@
  I am currently an undergrad at ARSD , University of Delhi.<br>
  
  <p align ="right">
-  <img  align ="centre" src="coding.jpg" alt="Image" width="600" height="300">
+  <img  align ="centre" src="coding.jpg" alt="Image" width="400" height="300">
  </p> 
 </p>
 <br>
