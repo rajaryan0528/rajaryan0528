@@ -1,5 +1,4 @@
 <h1 align ="center" >Hey there👋</h1>
-<br>
 <h3 align ="center" >My name is <b>Raj Aryan</b>.</h3>
 <p>
  I am currently an undergrad at ARSD , University of Delhi.<br>
