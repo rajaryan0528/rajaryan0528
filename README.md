@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @rajaryan0528
+<p>Hey there 👋 . My name is Raj Aryan. I am currently an ubdergrad at ARSD , University of Delhi.<br>
+</p>
 - 👀 I’m interested in ...Machine Learning, Virtual Reality, Web Development, Data Analytics and Cybersecurity
 - 🌱 I’m currently learning ...C++, Java
 - 💞️ I’m looking to collaborate on ...
