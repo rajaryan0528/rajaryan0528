@@ -4,7 +4,7 @@
  I am currently an undergrad at ARSD , University of Delhi.<br>
 </p>
 <br>
-<p align="right"
+<p align="right">
 - 👀 I’m interested in ...
 <ol>
   <li><mark>Web Development</mark> </li>
