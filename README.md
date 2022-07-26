@@ -3,8 +3,11 @@
 <p>
  I am currently an undergrad at ARSD , University of Delhi.<br>
  
+ <p align ="left ">
+  <img  src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344" alt="Image" width="400" height="300">
+ </p> 
  <p align ="right">
-  <img  align ="centre" src="coding.jpg" alt="Image" width="400" height="300">
+  <img  src="coding.jpg" alt="Image" width="400" height="300">
  </p> 
 <br>
 - 👀 I’m interested in ...
