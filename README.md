@@ -1,5 +1,8 @@
 <h1>Hey there👋</h1>
-<br>My name is <b>Raj Aryan</b>. I am currently an undergrad at ARSD , University of Delhi.<br>
+<br>
+<h3>My name is <b>Raj Aryan</b>.</h3>
+<p>
+ I am currently an undergrad at ARSD , University of Delhi.<br>
 </p>
 <br>
 - 👀 I’m interested in ...
