@@ -5,6 +5,7 @@
 </p>
 <br>
 - 👀 I’m interested in ...
+<p align="right"
 <ol>
   <li><mark>Web Development</mark> </li>
   <li><mark>Cybersecurity,Ethical Hacking<mark></li>
@@ -18,6 +19,7 @@
   <li><mark>HTML, CSS</mark></li>
 </ul>
  - 📫 How to reach me ...<b>rajaryan0528@gmail.com</b>
+ </p>
     
   <br>
   <br>
