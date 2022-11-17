@@ -34,9 +34,6 @@
   
    
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/rajaryan0528/github-readme-stats)
-
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ary.ra)
- [![@raj_0628's Holopin board](https://holopin.io/api/user/board?user=raj_0628)](https://holopin.io/@raj_0628)
  
 <!---
 rajaryan0528/rajaryan0528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
