@@ -32,7 +32,7 @@
 <br>
 <br>
 
-![Snake animation](https://github.com/rajaryan0528/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 rajaryan0528/rajaryan0528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
