@@ -1,7 +1,7 @@
 <h1 align ="center" >Hey there👋</h1>
 <h3 align ="center" >My name is <b>Raj Aryan</b>.</h3>
 <p>
- I am currently an undergrad at ARSD , University of Delhi.<br>
+ CS Major @ARSD , University of Delhi.<br>
  
  <p align ="left ">
   <img  src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344" alt="Image" width="400" height="300">
