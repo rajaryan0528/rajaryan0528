@@ -7,11 +7,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344" alt="Coding Animation" width="500">
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact)](https://github.com/rajaryan0528/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact)](https://github.com/rajaryn/github-readme-stats)
 
 ---
 
