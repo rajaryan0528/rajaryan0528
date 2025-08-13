@@ -22,9 +22,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajaryn&show_icons=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajaryn" alt="GitHub Streak" height="160">
-
-
 ---
 
 ### 📈 Languages
@@ -44,4 +41,5 @@
 ---
 
 ### 📫 Reach Me
-**Email:** rajaryan0528@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-aryan-3bb7b91b4)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:rajaryan0528@gmail.com)
