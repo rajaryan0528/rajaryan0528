@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajaryan0528&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=rajaryn&color=blue" alt="Profile Views">
 </p>
 
 ---
@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaryan0528&show_icons=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajaryan0528" alt="GitHub Streak" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaryn&show_icons=true" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajaryn" alt="GitHub Streak" height="160">
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### 📈 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan0528&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryn&layout=compact" alt="Top Languages">
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 📅 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaryan0528&theme=default" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaryn&theme=default" alt="GitHub Activity Graph">
 </p>
 
 ---
